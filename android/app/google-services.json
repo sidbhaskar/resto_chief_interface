@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184889097940",
+    "project_id": "resto-chef-interface",
+    "storage_bucket": "resto-chef-interface.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184889097940:android:8df028c0a663c2f708c541",
+        "android_client_info": {
+          "package_name": "com.example.resto_chief_interface"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsVYDrxED11M5LSkHhC73jPSVwlGfMbOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

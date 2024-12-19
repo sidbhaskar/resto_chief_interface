@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:resto_chief_interface/nav.dart';
-import 'package:resto_chief_interface/running_orders_card.dart';
+import 'package:resto_chief_interface/components/nav.dart';
+import 'package:resto_chief_interface/components/running_orders_card.dart';
 
 class Dashboard extends StatefulWidget {
   const Dashboard({super.key});
